@@ -2,7 +2,7 @@
 Nowadays all the companies are more working on cloud platform instead of using setup infrastructure. So many cloud services are available in Market. I choose AWS for hosting a static website.
  STEPS TO HOST A STATIC WEBSITE IN AWS
 
- STEP 1: LOG IN TO AWS ACCOUNT
+ STEP 1: LOG IN TO AWS ACCOUNT<br>
  STEP 2: GO TO S3 SERVICE AND CREATE A BUCKET 
         ACLS MUST BE ENABLED WHILE CREATING A BUCKET 
         BLOCK THE PUBLIC ACCESS AND CLICK ON ACKNOWLEDEMENT
